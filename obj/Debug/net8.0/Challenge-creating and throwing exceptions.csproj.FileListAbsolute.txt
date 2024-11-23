@@ -1,0 +1,14 @@
+C:\Users\600790\Desktop\C#\Challenge-creating and throwing exceptions\bin\Debug\net8.0\Challenge-creating and throwing exceptions.exe
+C:\Users\600790\Desktop\C#\Challenge-creating and throwing exceptions\bin\Debug\net8.0\Challenge-creating and throwing exceptions.deps.json
+C:\Users\600790\Desktop\C#\Challenge-creating and throwing exceptions\bin\Debug\net8.0\Challenge-creating and throwing exceptions.runtimeconfig.json
+C:\Users\600790\Desktop\C#\Challenge-creating and throwing exceptions\bin\Debug\net8.0\Challenge-creating and throwing exceptions.dll
+C:\Users\600790\Desktop\C#\Challenge-creating and throwing exceptions\bin\Debug\net8.0\Challenge-creating and throwing exceptions.pdb
+C:\Users\600790\Desktop\C#\Challenge-creating and throwing exceptions\obj\Debug\net8.0\Challenge-creating and throwing exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\600790\Desktop\C#\Challenge-creating and throwing exceptions\obj\Debug\net8.0\Challenge-creating and throwing exceptions.AssemblyInfoInputs.cache
+C:\Users\600790\Desktop\C#\Challenge-creating and throwing exceptions\obj\Debug\net8.0\Challenge-creating and throwing exceptions.AssemblyInfo.cs
+C:\Users\600790\Desktop\C#\Challenge-creating and throwing exceptions\obj\Debug\net8.0\Challenge-creating and throwing exceptions.csproj.CoreCompileInputs.cache
+C:\Users\600790\Desktop\C#\Challenge-creating and throwing exceptions\obj\Debug\net8.0\Challenge-creating and throwing exceptions.dll
+C:\Users\600790\Desktop\C#\Challenge-creating and throwing exceptions\obj\Debug\net8.0\refint\Challenge-creating and throwing exceptions.dll
+C:\Users\600790\Desktop\C#\Challenge-creating and throwing exceptions\obj\Debug\net8.0\Challenge-creating and throwing exceptions.pdb
+C:\Users\600790\Desktop\C#\Challenge-creating and throwing exceptions\obj\Debug\net8.0\Challenge-creating and throwing exceptions.genruntimeconfig.cache
+C:\Users\600790\Desktop\C#\Challenge-creating and throwing exceptions\obj\Debug\net8.0\ref\Challenge-creating and throwing exceptions.dll
